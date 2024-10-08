@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Shujie Han is now a tenure-track Associate Professor of the [School of Computer Science](https://jsj.nwpu.edu.cn/enweb/HOME.htm) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, Shaanxi province. She was a Boya postdoctoral fellow at [Peking University](https://www.pku.edu.cn/) advised by [Prof. Qun Huang](https://huangqundl.github.io/) in 2021-2024. Before that, she received her Ph.D.degree in July 2021 in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk) at [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the supervision of [Prof. Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee), as a member of the [Applied Distributed System Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/). She received the B.Eng. degree in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) in 2017.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +34,101 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Conferences
+------
+1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
+**"Scaling Disk Failure Prediction via Multi-Source Stream Mining."**  
+Proceedings of the IEEE International Conference on Data Mining (ICDM) (Regular paper), Abu Dhabi, UAE, December 9, 2024.  
+(AR: 66/604 = 10.9%)  
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. Zirui Ou, **Shujie Han**, Qihuan Zeng, and Qun Huang.  
+**"FedSSA: Reducing Overhead of Additive Cryptographic Methods in Federated Learning with Sketch."**  
+Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP), Charleroi, Belgium, October 28, 2024.  
+(AR: 50/205 = 24.4%)  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. Xiao Zhang, Huiru Xie, Zhe Wang, **Shujie Han**, Leijie Zeng, and Wendi Cheng.  
+**"FastStore: Optimization of Distributed Block Storage Services for Cloud Computing."**  
+Proceedings of the 38th International Conference on Massive Storage Systems and Technology (MSST), Santa Clara, CA, USA, June 2024.  
+(AR: 27/66 = 40.9%)  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+1. Jinhong Li, Yanjing Ren, **Shujie Han**, Patrick P. C. Lee.  
+**"Enhancing LSM-tree Key-Value Stores for Read-Modify-Writes via Key-Delta Separation."**  
+Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 2024.  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+1. Qingxiu Liu, Qun Huang, Xiang Chen, Sa Wang, Wenhao Wang, **Shujie Han**, and Patrick P. C. Lee.  
+**"PP-Stream: Toward High-Performance Privacy-Preserving Neural Network Inference via Distributed Stream Processing."**  
+Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 2024.  
+
+1. Zhinan Cheng, **Shujie Han** (corresponding), Patrick P. C. Lee, Xin Li, Jiongzhou Liu, and Zhan Li.  
+**"An In-Depth Correlative Study Between DRAM Errors and Server Failures in Production Data Centers."**  
+Proceedings of the 41st International Symposium on Reliable Distributed Systems (SRDS 2022), Vienna, Austria, September 2022.  
+(AR: 24/105 = 22.9%)  
+
+1. Fan Xu, **Shujie Han** (corresponding), Patrick P. C. Lee, Yi Liu, Cheng He, and Jiongzhou Liu.  
+**"General Feature Selection for Failure Prediction in Large-scale SSD Deployment."**  
+Proceedings of the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021), June 2021.  
+(AR: 48/295 = 16.3%)  
+
+1. **Shujie Han**, Patrick P. C. Lee, Fan Xu, Yi Liu, Cheng He, and Jiongzhou Liu.  
+**"An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers."**  
+Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST 2021), February 2021.  
+(AR: 28/130 = 21.5%)  
+
+1. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
+**"Toward Adaptive Disk Failure Prediction via Stream Mining."**  
+Proceedings of the 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, November 2020.  
+(AR: 105/584 = 18.5%)  
+
+1. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
+**"A Simulation Analysis of Reliability in Erasure-Coded Data Centers."**  
+Proceedings of the 36th IEEE International Symposium on Reliable Distributed Systems (SRDS 2017), Hong Kong, September 2017.  
+(AR: 24/72 = 33.3%)
+
+Journals
+------
+
+1. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
+**"StreamDFP: A General Stream Mining Framework for Adaptive Disk Failure Prediction."**  
+IEEE Transactions on Computers (TC), 72(2), pp.520-534, February 2023.  
+(An earlier version appeared in ICDCS 2020)  
+
+1. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
+**"SimEDC: A Simulator for the Reliability Analysis of Erasure-Coded Data Centers."**  
+IEEE Transactions on Parallel and Distributed Systems (TPDS), 30(12), pp. 2836-2848, December 2019.  
+(An earlier version appeared in SRDS 2017)  
+
+1. Min Fu, **Shujie Han**, Patrick P. C. Lee, Dan Feng, Zuoning Chen, and Yu Xiao.  
+**"A Simulation Analysis of Redundancy and Reliability in Primary Storage Deduplication."**  
+IEEE Transactions on Computers (TC), 67(9), pp. 1259-1272, September 2018.  
+(An earlier version appeared in IISWC 2016)  
+
+Books
+------
+
+1. Cheng He, Mengling Feng, Patrick P. C. Lee, Pinghui Wang, **Shujie Han**, and Yi Liu (Eds.).  
+**"Large-Scale Disk Failure Prediction."**  
+Springer, June 2020 (ISBN: 978-981-15-7749-9).  
+
+Preprints
+------
+
+1. **Shujie Han**, Jun Wu, Erci Xu, Cheng He, Patrick P. C. Lee, Yi Qiang, Qixing Zheng, Tao Huang, Zixi Huang, and Rui Li.  
+**"Robust Data Preprocessing for Machine-Learning-Based Disk Failure Prediction in Cloud Production Environments."**  
+arXiv:1912.09722, December 2019.  
+
+# 📖 Teaching
+
+1. 信息存储与管理, Spring, 2024.  
+1. 数据库系统实验, Fall, 2024.  
+
+# 💬 Activities
+
+1. PC member in ICA3PP'24 and ICA3PP'23.  
+1. Journal Reviewer in TON, TOS, and TCAD.  
+
+# 🎖 Awards
+
+1. Alibaba Group Outstanding Science Research Intern in the project "Research on online failure prediction for HDDs and field studies for SSDs in large-scale data centers" in 2022.  
+
