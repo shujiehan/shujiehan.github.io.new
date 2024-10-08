@@ -17,8 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shujie Han is now a tenure-track Associate Professor of the [School of Computer Science](https://jsj.nwpu.edu.cn/enweb/HOME.htm) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, Shaanxi province. She was a Boya postdoctoral fellow at [Peking University](https://www.pku.edu.cn/) advised by [Prof. Qun Huang](https://huangqundl.github.io/) in 2021-2024. Before that, she received her Ph.D.degree in July 2021 in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk) at [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the supervision of [Prof. Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee), as a member of the [Applied Distributed System Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/). She received the B.Eng. degree in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) in 2017.
+Shujie Han is now a tenure-track Associate Professor of the [School of Computer Science](https://jsj.nwpu.edu.cn/enweb/HOME.htm) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, Shaanxi province. She was a Boya postdoctoral fellow at [Peking University](https://www.pku.edu.cn/) advised by [Prof. Qun Huang](https://huangqundl.github.io/) in 2021-2024. Before that, she received her Ph.D.degree in July 2021 in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk) at [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the supervision of [Prof. Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee), as a member of the [Applied Distributed System Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/). She received the B.Eng. degree in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) in 2017. 
 
+My research interests are in the intersection of systems and artificial intelligence (AI), such as AI for Systems and Systems for AI.
+- **Applying AI for system dependability**: failure prediction for hard disk drives (HDDs), solid-state drives (SSDs), and memory errors.
+- **System optimizations for AI applications**: scaling disk failure prediction via multi-source stream mining.
+
+We are looking for the self-motivated students who are interested in the intersection of systems and AI to join our projects for research.
+We also welcome senior undergraduate students (e.g., year-3 and year-4) to pursue their master degrees in our group.
+Please feel free to contact me if you are interested in our research projects.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
